@@ -1,4 +1,4 @@
-from python:3.7-alpine3.8
+from python:3.7-alpine3.12
 
 MAINTAINER Zach Dicus "dicus@arlut.utexas.edu"
 
